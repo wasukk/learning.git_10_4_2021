@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "Redressed";
+    src: url(Fonts/Redressed-Regular.ttf);
+}
+
+h1 {
+    color: rgb(196, 133, 17);
+    font-family: Redressed;
+}

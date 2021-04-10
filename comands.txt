@@ -1,0 +1,20 @@
+
+to initialize git
+
+git init
+
+to check status of folder
+
+git status
+
+
+to upload or add files
+
+git add .
+
+
+again check the status 
+
+	git status 
+
+
